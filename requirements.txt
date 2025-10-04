@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pytest
+black
+ruff
+isort
+pre-commit
